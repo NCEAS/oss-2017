@@ -30,6 +30,13 @@ library(knitr)
 schedule <- read_csv("oss.schedule.2017.csv")
 kable(schedule)
 
+#a lot to process
+#split into three-week blocks instead.
+
+library(DT)
+datatable(schedule)
+#this looks better and you can interact with it.
+
 ```
 
 
