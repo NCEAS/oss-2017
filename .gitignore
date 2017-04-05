@@ -1,3 +1,10 @@
+#OSX
+*.DS_Store
+.AppleDouble
+.LSOverride
+
+
+#R stuffs
 .Rproj.user
 .Rhistory
 .RData
