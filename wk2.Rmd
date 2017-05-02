@@ -1,0 +1,11 @@
+---
+title: ""
+output: html_document
+---
+<br>
+
+####**Advanced skills**
+
+<br>
+
+[An open science workflow for meta-analyses](https://github.com/NCEAS/oss-lessons)

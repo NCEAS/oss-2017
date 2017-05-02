@@ -1,0 +1,18 @@
+name: "OSS-2017"
+navbar:
+  title: "OSS-2017"
+  left:
+    - text: "home"
+      href: index.html
+    - text: "schedule"
+      href: schedule.html
+    - text: "wk1"
+      href: wk1.html
+    - text: "wk2"
+      href: wk2.html
+    - text: "wk3"
+      href: wk3.html
+output_dir: "."
+output:
+  html_document:
+    theme: yeti

@@ -1,0 +1,11 @@
+---
+title: ""
+output: html_document
+---
+<br>
+
+####**Fundamental collaboration and open sciences skills**
+
+<br>
+
+[Lessons](https://github.com/NCEAS/oss-lessons)
