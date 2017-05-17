@@ -8,4 +8,3 @@ output: html_document
 
 <br>
 
-[Lessons](https://github.com/NCEAS/oss-lessons)
