@@ -7,5 +7,3 @@ output: html_document
 ####**Advanced skills**
 
 <br>
-
-[An open science workflow for meta-analyses](https://htmlpreview.github.io/?https://github.com/NCEAS/oss-lessons/blob/gh-pages/meta-analysis/meta-analysis.html)
