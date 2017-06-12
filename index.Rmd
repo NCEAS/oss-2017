@@ -22,7 +22,10 @@ Meta-analysis, tabular data, programming, Python, and geospatial data.
 **Week 3.** Advanced topics & group projects  
 Metagenomics, communication, geospatial analysis, data viz, and group project sharing.
 
-All participants detail listed [here.](https://www.nceas.ucsb.edu/OSS2017)  
-Discussion on [slack oss channel](https://nceas.slack.com/messages/C4UHC7K17)
+All participants detail listed [here](https://www.nceas.ucsb.edu/OSS2017).
+
+Discussion on [Slack OSS channel](https://nceas.slack.com/messages/C4UHC7K17).
+
+If you aren't already a member of the Slack team, you need to [invite yourself](http://slack.nceas.ucsb.edu/).
 
 
