@@ -30,8 +30,18 @@ You will be doing most of your work by connecting to server that already has all
 
 - Web browser:
     - Your choice, but a recent version of Chrome or Firefox is preferred
-- Text / code editor:
-    - If you already have something you like, feel free to use that text editor. If you don't know if you have a text editor or know you don't have one, we recommend [Atom](https://atom.io).
+- Code editor:
+    - If you already have something you like, feel free to use that code editor. Popular code editors include:
+    
+        - Sublime Text
+        - Notepad++
+        - Atom
+        - Visual Studio Code
+        - Emacs
+        - vi(m)
+        
+    If you don't know if you have a code editor or know you don't have one, we recommend downloading [Atom](https://atom.io).
+    
 - SSH client:
     - Mac and Linux users: You already have this installed
     - Windows users: Please download [PuTTY](http://www.putty.org) and verify that you can run it
