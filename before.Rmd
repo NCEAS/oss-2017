@@ -43,7 +43,13 @@ You will be doing most of your work by connecting to server that already has all
     If you don't know if you have a code editor or know you don't have one, we recommend downloading [Atom](https://atom.io).
     
 - SSH client:
-    - Mac and Linux users: You already have this installed
     - Windows users: Please download [PuTTY](http://www.putty.org) and verify that you can run it
+    - Mac and Linux users: You already have this installed. You can verify this by performing the following steps:
+    
+        1. Open Terminal.app (Applications -> Utilities -> Terminal)
+        2. Type `which ssh` and type <RETURN>
+        3. Check that the output is something like `/usr/bin/ssh` or some other path that ends in `ssh`.
+        
+   
 
 If you run into any problems or having any questions, please let us know in [#OSS](https://nceas.slack.com/messages/C4UHC7K17) ([get an invite](http://slack.nceas.ucsb.edu)).
