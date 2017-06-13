@@ -12,12 +12,27 @@ TBD
 
 TBD
 
+## Computer hardware
+
+You will be using a laptop on a daily basis. Because you will be doing most (if not all) of your work by connecting to a server and not directly on your computer (more on this at the workshop), it's not especially important that you bring a high-powered laptop. A relatively recent (2010 or later) laptop should suffice:
+
+- Minimum recommended specs:
+    - Processor: 2.00 GHz or higher
+    - Memory (RAM): 4 GB or more
+    - Storage: Ideally, you're hard drive should not be full. You should have at least 10GB of free space.
+    - Operating system: Windows (7+), Mac OS X / macOS (all versions), Linux/BSD (any)
+- Administrator access: You shouldn't have to install any/much software for the workshop but you may want to. Therefore, we recommend you have sufficient privileges to install software on the laptop you bring but we also realize this may not be possibe for some users.
+
+
 ## Software
 
-You will be doing most of your work by connecting to another computer that already has all of the required software installed (more details on this at the workshop) but please make sure you have the following programs installed before you arrive:
+You will be doing most of your work by connecting to server that already has all of the required software installed (more on this at the workshop) but please make sure you have the following programs installed before you arrive:
 
-- Web browser (Your choice, but a recent version of Chrome or Firefox is preferred)
-- SSH client
+- Web browser:
+    - Your choice, but a recent version of Chrome or Firefox is preferred
+- Text / code editor:
+    - If you already have something you like, feel free to use that text editor. If you don't know if you have a text editor or know you don't have one, we recommend [Atom](https://atom.io).
+- SSH client:
     - Mac and Linux users: You already have this installed
     - Windows users: Please download [PuTTY](http://www.putty.org) and verify that you can run it
 
