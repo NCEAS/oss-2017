@@ -23,6 +23,7 @@ You will be using a laptop on a daily basis. Because you will be doing most (if 
     - Operating system: Windows (7+), Mac OS X / macOS (all versions), Linux/BSD (any)
 - Administrator access: You shouldn't have to install any/much software for the workshop but you may want to. Therefore, we recommend you have sufficient privileges to install software on the laptop you bring but we also realize this may not be possibe for some users.
 
+***If your computer is below these specifications or you have any questions, please contact us via Slack on the [#OSS](https://nceas.slack.com/messages/C4UHC7K17) channel***. ([get an invite](http://slack.nceas.ucsb.edu)).
 
 ## Software
 
@@ -41,15 +42,21 @@ You will be doing most of your work by connecting to server that already has all
         - vi(m)
         
     If you don't know if you have a code editor or know you don't have one, we recommend downloading [Atom](https://atom.io).
-    
-- SSH client:
-    - Windows users: Please download [PuTTY](http://www.putty.org) and verify that you can run it
-    - Mac and Linux users: You already have this installed. You can verify this by performing the following steps:
-    
-        1. Open Terminal.app (Applications -> Utilities -> Terminal)
-        2. Type `which ssh` and type <RETURN>
-        3. Check that the output is something like `/usr/bin/ssh` or some other path that ends in `ssh`.
-        
-   
 
-If you run into any problems or having any questions, please let us know in [#OSS](https://nceas.slack.com/messages/C4UHC7K17) ([get an invite](http://slack.nceas.ucsb.edu)).
+- *Version control - git (and git bash)*: Please install git for your system: https://git-scm.com/downloads and follow the instructions. 
+    - Windows, you can set the options to default during the installation, until you reach “Configuring the terminal emulator to use with Git Bash “ -> be sure Use MinTTY is selected.  This will install both “git” and a set of useful command-line tools using a trimmed down “Bash” shell.  
+    - Mac OSX, depending your OS version, you might have to run few commands from the terminal. Please refer to the `README.txt` that comes with the download regarding the exact steps to follow.
+ 
+- *QGIS*:
+  If you are facing trouble during your installation or prefer to do it at NCEAS, we are happy to assist you as the GIS session will be held in the second week of the workshop. You can download the installer here:
+    - Windows: https://www.qgis.org/en/site/forusers/download.html and follow the installation wizzard
+    - Mac OSX: http://www.kyngchaos.com/software/qgis ; *Be sure to follow the order of installation of the different components*.
+
+- *R*:
+  We recommend you install the latest version of [R](https://cloud.r-project.org/) on your machine. If you have any reason to want to keep R to a previous version, it is fine as most of the work will be done on a remote server
+
+- *RStudio*:
+  We recommend you install the latest free version of [RStudio Desktop](https://www.rstudio.com/products/rstudio/download2/)  on your machine. If you have any reason to want to keep R to a previous version, it is fine as most of the work will be done on a remote server
+    
+
+***If you run into any problems or having any questions, please let us know in [#OSS](https://nceas.slack.com/messages/C4UHC7K17)*** ([get an invite](http://slack.nceas.ucsb.edu)).
