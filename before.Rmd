@@ -1,0 +1,24 @@
+---
+title: "Before you arrive"
+output: html_document
+draft: true
+---
+
+## Travel & Logistics
+
+TBD
+
+## Readings
+
+TBD
+
+## Software
+
+You will be doing most of your work by connecting to another computer that already has all of the required software installed (more details on this at the workshop) but please make sure you have the following programs installed before you arrive:
+
+- Web browser (Your choice, but a recent version of Chrome or Firefox is preferred)
+- SSH client
+    - Mac and Linux users: You already have this installed
+    - Windows users: Please download [PuTTY](http://www.putty.org) and verify that you can run it
+
+If you run into any problems or having any questions, please let us know in [#OSS](https://nceas.slack.com/messages/C4UHC7K17) ([get an invite](http://slack.nceas.ucsb.edu)).
