@@ -29,34 +29,44 @@ You will be using a laptop on a daily basis. Because you will be doing most (if 
 
 You will be doing most of your work by connecting to server that already has all of the required software installed (more on this at the workshop) but please make sure you have the following programs installed before you arrive:
 
-- Web browser:
-    - Your choice, but a recent version of Chrome or Firefox is preferred
-- Code editor:
-    - If you already have something you like, feel free to use that code editor. Popular code editors include:
+#### Web browser:
+
+- Your choice, but a recent version of Chrome or Firefox is preferred
     
-        - Sublime Text
-        - Notepad++
-        - Atom
-        - Visual Studio Code
-        - Emacs
-        - vi(m)
+#### Code editor:
+
+If you already have something you like, feel free to use that code editor. Popular code editors include:
+    
+- Sublime Text
+- Notepad++
+- Atom
+- Visual Studio Code
+- Emacs
+- vi(m)
         
     If you don't know if you have a code editor or know you don't have one, we recommend downloading [Atom](https://atom.io).
 
-- *Version control - git (and git bash)*: Please install git for your system: https://git-scm.com/downloads and follow the instructions. 
-    - Windows, you can set the options to default during the installation, until you reach “Configuring the terminal emulator to use with Git Bash “ -> be sure Use MinTTY is selected.  This will install both “git” and a set of useful command-line tools using a trimmed down “Bash” shell.  
-    - Mac OSX, depending your OS version, you might have to run few commands from the terminal. Please refer to the `README.txt` that comes with the download regarding the exact steps to follow.
+#### Version control - git (and git bash): 
+
+Please install git on your system: https://git-scm.com/downloads and follow the instructions. 
+
+- Windows - you can set the options to default during the installation, until you reach `Configuring the terminal emulator to use with Git Bash` -> be sure `Use MinTTY` is selected.  This will install both git and a set of useful command-line tools using a trimmed down Bash shell.  
+- Mac OSX - depending your OS version, you might have to run few commands from the terminal. Please refer to the `README.txt` that comes with the download regarding the exact steps to follow.
  
-- *QGIS*:
-  If you are facing trouble during your installation or prefer to do it at NCEAS, we are happy to assist you as the GIS session will be held in the second week of the workshop. You can download the installer here:
-    - Windows: https://www.qgis.org/en/site/forusers/download.html and follow the installation wizzard
-    - Mac OSX: http://www.kyngchaos.com/software/qgis ; *Be sure to follow the order of installation of the different components*.
+#### QGIS:
 
-- *R*:
-  We recommend you install the latest version of [R](https://cloud.r-project.org/) on your machine. If you have any reason to want to keep R to a previous version, it is fine as most of the work will be done on a remote server
+If you are facing trouble during the installation or prefer to do it at NCEAS, we are happy to assist you as the GIS session will be held in the second week of the workshop. You can download the installer here:
 
-- *RStudio*:
-  We recommend you install the latest free version of [RStudio Desktop](https://www.rstudio.com/products/rstudio/download2/)  on your machine. If you have any reason to want to keep R to a previous version, it is fine as most of the work will be done on a remote server
+- Windows - https://www.qgis.org/en/site/forusers/download.html and follow the installation wizzard
+- Mac OSX - http://www.kyngchaos.com/software/qgis ; *Be sure to follow the order of installation of the different components*.
+
+#### R:
+
+We recommend you install the latest version of [R](https://cloud.r-project.org/) on your machine. If you have any reason to want to keep R to a previous version, it is fine as most of the work will be done on a remote server
+
+#### RStudio:
+
+We recommend you install the latest free version of [RStudio Desktop](https://www.rstudio.com/products/rstudio/download2/)  on your machine. If you have any reason to want to keep RStudio to a previous version, it is fine as most of the work will be done on a remote server
     
 
 ***If you run into any problems or having any questions, please let us know in [#OSS](https://nceas.slack.com/messages/C4UHC7K17)*** ([get an invite](http://slack.nceas.ucsb.edu)).
