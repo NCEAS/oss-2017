@@ -4,13 +4,16 @@ output: html_document
 draft: true
 ---
 
-## Travel & Logistics
+# Travel & Logistics
 
-#### Upon Arrival in Santa Barbara
+## Upon Arrival in Santa Barbara
+
 Sierra Madre Apartments provides a shuttle service to/from Santa Barbara Airport or the Santa Barbara Airbus Goleta Station. The shuttle operates between 7am and 10pm. Call the Sierra Madre front desk at 805-893-8001 upon arrival for shuttle pick-up. For arrival by other means (e.g. train) or outside of these hours, you will need to take a taxi/lyft/uber. 
 
-#### Lodging Information
-##### Address:
+## Lodging Information
+
+### Address:
+
 Sierra Madre Apartments, University of California, Santa Barbara, 555 Storke Road (cross street is Sierra Madre Ct.), Isla Vista, CA 93117 (http://www.conferences.ucsb.edu/sierra-madre-villages)
 
 There will be a check in table on July 9th, from 10.30am - 4.00pm in the apartment courtyard where you can pick up keys to access your apartment. If needed, Sierra Madre Office hours are 10:30 am - 4 pm and located at Laguna Village apartment 1104.  (Proceed down the walkway and look for check-in signs to the left--across from the Administration building). 
@@ -20,19 +23,18 @@ Apartments are equipped with plates, bowls, cutlery, bedding and towels.  Towels
 
 Please note that Sierra Madre Apartments are non-smoking. The full regulations can be reviewed [here](https://github.com/NCEAS/oss-2017/blob/gh-pages/SierraMadreAptRegulations.pdf).
 
-#### Daily Transportation to/from NCEAS from Sierra Madre Apartments
+## Daily Transportation to/from NCEAS from Sierra Madre Apartments
+
 All participants will be given a “30-day unlimited ride” bus pass to use while in Santa Barbara. A representative from NCEAS will meet you at the Sierra Madre Apartments on the first day of the training to give you your bus pass and ride the bus with you to NCEAS. Please meet in the courtyard of the Sierra Madre Apartment Complex at 7:00 am on Monday, July 10. The 24X bus picks up in front of the Sierra Madre Apartments on Storke Road and drops off at the Downtown Transit Center, which is three blocks from NCEAS. It is roughly a 20-minute ride. The complete bus schedule can be found here: http://sbmtd.gov/maps-and-schedules/system-map.html     
 
-#### Workshop Location:
+## Workshop Location:
+
 National Center for Ecological Analysis and Synthesis, 735 State Street Suite 300, Santa Barbara, CA 93101
 
-#### Meals
+## Meals
+
 NCEAS will provide snacks and lunch Monday through Friday during the training. You will be responsible for coordinating your own breakfast and dinner and will receive a meal allowance to offset these costs. There are numerous restaurants and grocery stores close to NCEAS and to your apartments in Isla Vista.
 
-
-## Readings
-
-TBD
 
 ## Computer hardware
 
@@ -47,15 +49,16 @@ You will be using a laptop on a daily basis. Because you will be doing most (if 
 
 ***If your computer is below these specifications or you have any questions, please contact us via Slack on the [#OSS](https://nceas.slack.com/messages/C4UHC7K17) channel***. ([get an invite](http://slack.nceas.ucsb.edu)).
 
+
 ## Software
 
 You will be doing most of your work by connecting to server that already has all of the required software installed (more on this at the workshop) but please make sure you have the following programs installed before you arrive:
 
-#### Web browser:
+### Web browser:
 
 - Your choice, but a recent version of Chrome or Firefox is preferred
     
-#### Code editor:
+### Code editor:
 
 If you already have something you like, feel free to use that code editor. Popular code editors include:
     
@@ -68,25 +71,25 @@ If you already have something you like, feel free to use that code editor. Popul
         
     If you don't know if you have a code editor or know you don't have one, we recommend downloading [Atom](https://atom.io).
 
-#### Version control - git (and git bash): 
+### Version control - git (and git bash): 
 
 Please install git on your system: https://git-scm.com/downloads and follow the instructions. 
 
 - Windows - you can set the options to default during the installation, until you reach `Configuring the terminal emulator to use with Git Bash` -> be sure `Use MinTTY` is selected.  This will install both git and a set of useful command-line tools using a trimmed down Bash shell.  
 - Mac OSX - depending your OS version, you might have to run few commands from the terminal. Please refer to the `README.txt` that comes with the download regarding the exact steps to follow.
  
-#### QGIS:
+### QGIS:
 
 If you are facing trouble during the installation or prefer to do it at NCEAS, we are happy to assist you as the GIS session will be held in the second week of the workshop. You can download the installer here:
 
 - Windows - https://www.qgis.org/en/site/forusers/download.html and follow the installation wizzard
 - Mac OSX - http://www.kyngchaos.com/software/qgis ; *Be sure to follow the order of installation of the different components*.
 
-#### R:
+### R:
 
 We recommend you install the latest version of [R](https://cloud.r-project.org/) on your machine. If you have any reason to want to keep R to a previous version, it is fine as most of the work will be done on a remote server
 
-#### RStudio:
+### RStudio:
 
 We recommend you install the latest free version of [RStudio Desktop](https://www.rstudio.com/products/rstudio/download2/)  on your machine. If you have any reason to want to keep RStudio to a previous version, it is fine as most of the work will be done on a remote server
     
