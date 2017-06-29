@@ -18,7 +18,7 @@ If you arrive outside these hours, please call 805-893-8001 ahead of time.  A st
 
 Apartments are equipped with plates, bowls, cutlery, bedding and towels.  Towels are replaced daily and housekeeping is weekly. Cooking pots/pans and utensils are being provided by NCEAS and will in the apartments upon arrival.
 
-Please note that Sierra Madre Apartments are non-smoking. The full regulations can be reviewed here.
+Please note that Sierra Madre Apartments are non-smoking. The full regulations can be reviewed [here](https://github.com/NCEAS/oss-2017/blob/gh-pages/SierraMadreAptRegulations.pdf).
 
 #### Daily Transportation to/from NCEAS from Sierra Madre Apartments
 All participants will be given a “30-day unlimited ride” bus pass to use while in Santa Barbara. A representative from NCEAS will meet you at the Sierra Madre Apartments on the first day of the training to give you your bus pass and ride the bus with you to NCEAS. Please meet in the courtyard of the Sierra Madre Apartment Complex at 7:00 am on Monday, July 10. The 24X bus picks up in front of the Sierra Madre Apartments on Storke Road and drops off at the Downtown Transit Center, which is three blocks from NCEAS. It is roughly a 20-minute ride. The complete bus schedule can be found here: http://sbmtd.gov/maps-and-schedules/system-map.html     
