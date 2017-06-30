@@ -8,7 +8,7 @@ draft: true
 
 ### Upon Arrival in Santa Barbara
 
-Sierra Madre Apartments provides a shuttle service to/from Santa Barbara Airport or the Santa Barbara Airbus Goleta Station. The shuttle operates between 7am and 10pm. Call the Sierra Madre front desk at 805-893-8001 upon arrival for shuttle pick-up. For arrival by other means (e.g. train) or outside of these hours, you will need to take a taxi/lyft/uber. 
+Sierra Madre Apartments provides a shuttle service to/from Santa Barbara Airport or the Santa Barbara Airbus Goleta Station. The shuttle operates between 7am and 10pm. Call the Sierra Madre front desk at 805-893-8001 upon arrival for shuttle pick-up. For arrival by other means (e.g. train) or outside of these hours, you will need to take a taxi/lyft/uber.  
 
 ### Lodging Information
 
@@ -21,19 +21,19 @@ If you arrive outside these hours, please call 805-893-8001 ahead of time.  A st
 
 Apartments are equipped with plates, bowls, cutlery, bedding and towels.  Towels are replaced daily and housekeeping is weekly. Cooking pots/pans and utensils are being provided by NCEAS and will in the apartments upon arrival.
 
-Please note that Sierra Madre Apartments are non-smoking. The full regulations can be reviewed [here](https://github.com/NCEAS/oss-2017/blob/gh-pages/SierraMadreAptRegulations.pdf).
+Please note that Sierra Madre Apartments are non-smoking. The full regulations can be reviewed [here](https://github.com/NCEAS/oss-2017/blob/gh-pages/SierraMadreAptRegulations.pdf).  
 
 ### Daily Transportation to/from NCEAS from Sierra Madre Apartments
 
-All participants will be given a “30-day unlimited ride” bus pass to use while in Santa Barbara. A representative from NCEAS will meet you at the Sierra Madre Apartments on the first day of the training to give you your bus pass and ride the bus with you to NCEAS. Please meet in the courtyard of the Sierra Madre Apartment Complex at 7:00 am on Monday, July 10. The 24X bus picks up in front of the Sierra Madre Apartments on Storke Road and drops off at the Downtown Transit Center, which is three blocks from NCEAS. It is roughly a 20-minute ride. The complete bus schedule can be found here: http://sbmtd.gov/maps-and-schedules/system-map.html     
+All participants will be given a “30-day unlimited ride” bus pass to use while in Santa Barbara. A representative from NCEAS will meet you at the Sierra Madre Apartments on the first day of the training to give you your bus pass and ride the bus with you to NCEAS. Please meet in the courtyard of the Sierra Madre Apartment Complex at 7:00 am on Monday, July 10. The 24X bus picks up in front of the Sierra Madre Apartments on Storke Road and drops off at the Downtown Transit Center, which is three blocks from NCEAS. It is roughly a 20-minute ride. The complete bus schedule can be found here: http://sbmtd.gov/maps-and-schedules/system-map.html  
 
 ### Workshop Location:
 
-National Center for Ecological Analysis and Synthesis, 735 State Street Suite 300, Santa Barbara, CA 93101
+National Center for Ecological Analysis and Synthesis, 735 State Street Suite 300, Santa Barbara, CA 93101  
 
 ### Meals
 
-NCEAS will provide snacks and lunch Monday through Friday during the training. You will be responsible for coordinating your own breakfast and dinner and will receive a meal allowance to offset these costs. There are numerous restaurants and grocery stores close to NCEAS and to your apartments in Isla Vista.
+NCEAS will provide snacks and lunch Monday through Friday during the training. You will be responsible for coordinating your own breakfast and dinner and will receive a meal allowance to offset these costs. There are numerous restaurants and grocery stores close to NCEAS and to your apartments in Isla Vista.  
 
 
 ## Computer hardware
@@ -47,7 +47,7 @@ You will be using a laptop on a daily basis. Because you will be doing most (if 
     - Operating system: Windows (7+), Mac OS X / macOS (all versions), Linux/BSD (any)
 - Administrator access: You shouldn't have to install any/much software for the workshop but you may want to. Therefore, we recommend you have sufficient privileges to install software on the laptop you bring but we also realize this may not be possibe for some users.
 
-***If your computer is below these specifications or you have any questions, please contact us via Slack on the [#OSS](https://nceas.slack.com/messages/C4UHC7K17) channel***. ([get an invite](http://slack.nceas.ucsb.edu)).
+***If your computer is below these specifications or you have any questions, please contact us via Slack on the [#OSS](https://nceas.slack.com/messages/C4UHC7K17) channel***. ([get an invite](http://slack.nceas.ucsb.edu)).  
 
 
 ## Software
@@ -89,9 +89,9 @@ If you are facing trouble during the installation or prefer to do it at NCEAS, w
 
 We recommend you install the latest version of [R](https://cloud.r-project.org/) on your machine. If you have any reason to want to keep R to a previous version, it is fine as most of the work will be done on a remote server
 
-## RStudio:
+### RStudio:
 
-We recommend you install the latest free version of [RStudio Desktop](https://www.rstudio.com/products/rstudio/download2/)  on your machine. If you have any reason to want to keep RStudio to a previous version, it is fine as most of the work will be done on a remote server
+We recommend you install the latest free version of [RStudio Desktop](https://www.rstudio.com/products/rstudio/download2/)  on your machine. If you have any reason to want to keep RStudio to a previous version, it is fine as most of the work will be done on a remote server  
     
 
 ***If you run into any problems or having any questions, please let us know in [#OSS](https://nceas.slack.com/messages/C4UHC7K17)*** ([get an invite](http://slack.nceas.ucsb.edu)).
