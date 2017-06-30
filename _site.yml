@@ -12,6 +12,8 @@ navbar:
       href: wk2.html
     - text: "wk3"
       href: wk3.html
+    - text: "logistics"
+      href: before.html
 output_dir: "."
 output:
   html_document:
