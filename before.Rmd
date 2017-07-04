@@ -85,6 +85,8 @@ If you are facing trouble during the installation or prefer to do it at NCEAS, w
 - Windows: https://www.qgis.org/en/site/forusers/download.html and follow the installation wizzard
 - macOS: http://www.kyngchaos.com/software/qgis ; *Be sure to follow the order of installation of the different components*.
 
+Note: You do not need to install Python separately when installing QGIS.
+
 ### R:
 
 We recommend you install the latest version of [R](https://cloud.r-project.org/) on your machine. If you have any reason to want to keep R to a previous version, it is fine as most of the work will be done on a remote server
