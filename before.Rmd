@@ -82,8 +82,8 @@ Please install git on your system: https://git-scm.com/downloads and follow the 
 
 If you are facing trouble during the installation or prefer to do it at NCEAS, we are happy to assist you as the GIS session will be held in the second week of the workshop. You can download the installer here:
 
-- Windows - https://www.qgis.org/en/site/forusers/download.html and follow the installation wizzard
-- Mac OSX - http://www.kyngchaos.com/software/qgis ; *Be sure to follow the order of installation of the different components*.
+- Windows: https://www.qgis.org/en/site/forusers/download.html and follow the installation wizzard
+- macOS: http://www.kyngchaos.com/software/qgis ; *Be sure to follow the order of installation of the different components*.
 
 ### R:
 
