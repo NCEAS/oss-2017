@@ -8,4 +8,4 @@ output: html_document
 
 <br>
 
-[Lessons](https://github.com/NCEAS/oss-lessons)
+[All lessons provided by NCEAS and collaborators here on GitHub.](https://github.com/NCEAS/oss-lessons)
