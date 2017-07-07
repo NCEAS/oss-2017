@@ -6,7 +6,7 @@ Agenda,Day 1. Synthesis & Unix,Day 2. Communication and Version Control,Day 3. A
 9:45-11:00,"Intro to servers, networks, and the unix command line (Jones)","Activity: Version control, Git, Github, Git in RStudio (Brun)",Bash shell scripts (Jones),"Data liberation (scraping, text mining) (Brun)",Introduction to tidyverse wrangling   (Lortie)
 11:00-12:00,Thinking preferences activity (Budden),"Activity: Version control, Git, Github, Git in RStudio (Brun)",R Review/ Assessment (Mecum),"Data liberation (scraping, text mining) (Brun)","Tutorial and exercises wrangling to filter, sort, and merge (Lortie)"
 Noon-1:00,Lunch,Lunch,Lunch,Lunch,Lunch
-1:00-1:30,R Markdown & Rstudio setup (Mecum),Communications: The message box (Budden),Data Management & Scientific data repositories (Schildhauer),Regular expressions (Mecum),"Data  munging, QA/QC, cleaning (Mecum)"
+1:00-1:30,R Markdown & Rstudio setup (Mecum),Communications: The message box (Budden),Data Management & Scientific data repositories (Budden),Regular expressions (Mecum),"Data  munging, QA/QC, cleaning (Mecum)"
 1:30-2:00,R Markdown & Rstudio setup (Mecum),Group work on message box (Budden),Publishing Data in R (Jones),Message box 2: Group exchange and feedback (Budden),"Data  munging, QA/QC, cleaning (Mecum)"
 2:00-2:15,Break,Break,Break,Break,Break
 2:15-5:00,Pre-Assessment (Budden) and Synthesis Groups (Jones),Synthesis Groups,Synthesis Groups,Synthesis Groups,Synthesis Groups
