@@ -8,7 +8,11 @@ output: html_document
 
 [All lessons provided by NCEAS and collaborators here on GitHub.](https://github.com/NCEAS/oss-lessons)
 
+<br>
+
 ## **Lessons by Day**
+
+<br>
 
 ### Day 1: Mon Jul 10
 - [Course Overview](https://nceas.github.io/oss-lessons/course-overview/course-overview.html#/)
