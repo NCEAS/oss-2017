@@ -9,3 +9,76 @@ output: html_document
 <br>
 
 [All lessons provided by NCEAS and collaborators here on GitHub.](https://github.com/NCEAS/oss-lessons)
+<br>
+
+####**Lessons by Day**
+#Day 1: Mon Jul 10
+- [Course Overview] (https://nceas.github.io/oss-lessons/course-overview/course-overview.html#/)
+- Intro to Servers
+- Thinking Preferences
+- R Markdown and R studio
+
+#Day 2: Tue Jul 11
+- Version control and GIT I
+- Version control and GIT II
+- The message box
+
+#Day 3: Wed Jul 12
+- Unix tools
+- Bash shell scripts
+- Data management and repos
+- Data publishing
+
+#Day 4: Thu Jul 13
+- Ecological metadata
+- Data liberation
+- Regex
+
+#Day 5: Fri Jul 14
+- Collaboration
+- Facilitation techniques
+- Data wrangling: Tidyverse
+- Data Munging
+
+#Day 6: Mon Jul 17
+- Meta analysis I
+- Meta analysis II
+- Meta analysis III
+- Meta analysis IV
+
+#Day 7: Tue Jul 18
+- Tablular data
+- SQL and PostgreSQL
+- SQL and database access in R
+
+#Day 8: Wed Jul 19
+- Worflows and modeling
+- Functions and modular code
+- Testing R code
+
+#Day 9: Thu Jul 20
+- Practical provenance
+- Reproducible papers with RMD
+
+#Day 10: Fri Jul 21
+- Metagenomics
+
+#Day 11: Mon Jul 24
+- GIS and geopspatial concepts
+- QGIS
+- GIS in R
+
+#Day 12: Tue Jul 25
+- NetCDF and HDF5
+
+#Day 13: Wed Jul 26
+- Dataviz
+- Datavz for alternative data
+- Open Science
+
+#Day 14: Thu Jul 27
+- Parallel processing in R
+
+#Day 15: Fri Jul 28
+- Group Presentations
+
