@@ -8,6 +8,8 @@ navbar:
       href: schedule.html
     - text: "lessons"
       href: lessons.html
+    - text: "readings"
+      href: readings.html
     - text: "logistics"
       href: before.html
 output_dir: "."

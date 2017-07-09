@@ -1,0 +1,15 @@
+---
+title: ""
+output: html_document
+---
+<br>
+
+## **Readings**
+
+Day 1: 
+
+- Hampton and Parker. 2011. Collaboration and Productivity in Scientific Synthesis. [Download PDF](https://github.com/NCEAS/oss-2014/raw/master/day-01/HamptonParker_BioSci_2011.pdf)
+
+Day 2:
+
+- Baron. Escape from the Ivory Tower. [Download PDF](https://github.com/NCEAS/oss-2014/raw/master/day-01/Baron_Escape_from_the_Ivory_Tower_Chap_8.pdf)
