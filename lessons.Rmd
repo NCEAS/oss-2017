@@ -40,7 +40,7 @@ output: html_document
 ### Day 5: Fri Jul 14
 - Collaboration
 - Facilitation techniques
-- Data wrangling: Tidyverse
+- [Data wrangling: Tidyverse](https://github.com/NCEAS/oss-lessons/blob/gh-pages/data-wrangling/tidyverse.Rmd)
 - Data Munging
 
 ### Day 6: Mon Jul 17
