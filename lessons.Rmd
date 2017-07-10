@@ -17,7 +17,7 @@ output: html_document
 ### Day 1: Mon Jul 10
 - [Course Overview](https://nceas.github.io/oss-lessons/course-overview/course-overview.html#/)
 - [Intro to Servers](https://nceas.github.io/oss-lessons/servers-networks-command-line/1-servers-net.html)
-- Thinking Preferences
+- [Thinking Preferences](https://nceas.github.io/oss-lessons/thinking-preferences/thinking-preferences.html#/)
 - [R Markdown and R studio](https://github.com/NCEAS/oss-lessons/blob/gh-pages/rmarkdown-rstudio/rmarkdown-rstudio.Rmd)
 
 ### Day 2: Tue Jul 11
