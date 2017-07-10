@@ -44,10 +44,12 @@ output: html_document
 - Data Munging
 
 ### Day 6: Mon Jul 17
-- Meta analysis I
-- Meta analysis II
-- Meta analysis III
-- Meta analysis IV
+- [Meta analysis intro](https://github.com/NCEAS/oss-lessons/blob/gh-pages/meta-analysis/index.Rmd)
+- [Meta analysis I](https://github.com/NCEAS/oss-lessons/blob/gh-pages/meta-analysis/step1.Rmd)
+- [Meta analysis II](https://github.com/NCEAS/oss-lessons/blob/gh-pages/meta-analysis/step2.Rmd)
+- [Meta analysis III](https://github.com/NCEAS/oss-lessons/blob/gh-pages/meta-analysis/step3.Rmd)
+- [Meta analysis IV](https://github.com/NCEAS/oss-lessons/blob/gh-pages/meta-analysis/step4.Rmd)
+- [Meta analysis V](https://github.com/NCEAS/oss-lessons/blob/gh-pages/meta-analysis/step5.Rmd)
 
 ### Day 7: Tue Jul 18
 - Tablular data
