@@ -18,7 +18,7 @@ output: html_document
 - [Course Overview](https://nceas.github.io/oss-lessons/course-overview/course-overview.html#/)
 - [Intro to Servers](https://nceas.github.io/oss-lessons/servers-networks-command-line/1-servers-net.html)
 - Thinking Preferences
-- R Markdown and R studio
+- [R Markdown and R studio](https://github.com/NCEAS/oss-lessons/blob/gh-pages/rmarkdown-rstudio/rmarkdown-rstudio.Rmd)
 
 ### Day 2: Tue Jul 11
 - Version control and GIT I
