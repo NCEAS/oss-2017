@@ -24,8 +24,8 @@ output: html_document
 ### Day 2: Tue Jul 11
 - [Version control: git basics](https://nceas.github.io/oss-lessons/version-control/1-git-basics.html)
 - [Version control: GitHub](https://nceas.github.io/oss-lessons/version-control/2-GitHub.html)
-- [Version control: remote and branches](https://github.com/NCEAS/oss-lessons/version-control/3-git-remote.html)
-- [Version control: Rstudio and git](https://github.com/NCEAS/oss-lessons/version-control/4-getting-started-with-git-in-RStudio.html)
+- [Version control: remote and branches](https://nceas.github.io/oss-lessons/version-control/3-git-remote.html)
+- [Version control: Rstudio and git](https://nceas.github.io/oss-lessons/version-control/4-getting-started-with-git-in-RStudio.html)
 - The message box
 
 ### Day 3: Wed Jul 12
