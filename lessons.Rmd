@@ -40,16 +40,16 @@ output: html_document
 ### Day 5: Fri Jul 14
 - Collaboration
 - Facilitation techniques
-- [Data wrangling: Tidyverse](https://github.com/NCEAS/oss-lessons/blob/gh-pages/data-wrangling/tidyverse.Rmd)
+- [Data wrangling: Tidyverse](https://nceas.github.io/oss-lessons/data-wrangling/tidyverse.html)
 - Data Munging
 
 ### Day 6: Mon Jul 17
-- [Meta analysis intro](https://github.com/NCEAS/oss-lessons/blob/gh-pages/meta-analysis/index.Rmd)
-- [Meta analysis I](https://github.com/NCEAS/oss-lessons/blob/gh-pages/meta-analysis/step1.Rmd)
-- [Meta analysis II](https://github.com/NCEAS/oss-lessons/blob/gh-pages/meta-analysis/step2.Rmd)
-- [Meta analysis III](https://github.com/NCEAS/oss-lessons/blob/gh-pages/meta-analysis/step3.Rmd)
-- [Meta analysis IV](https://github.com/NCEAS/oss-lessons/blob/gh-pages/meta-analysis/step4.Rmd)
-- [Meta analysis V](https://github.com/NCEAS/oss-lessons/blob/gh-pages/meta-analysis/step5.Rmd)
+- [Meta analysis intro](https://nceas.github.io/oss-lessons/meta-analysis/index.html)
+- [Meta analysis I](https://nceas.github.io/oss-lessons/meta-analysis/step1.html)
+- [Meta analysis II](https://nceas.github.io/oss-lessons/meta-analysis/step2.html)
+- [Meta analysis III](https://nceas.github.io/oss-lessons/meta-analysis/step3.html)
+- [Meta analysis IV](https://nceas.github.io/oss-lessons/meta-analysis/step4.html)
+- [Meta analysis V](https://nceas.github.io/oss-lessons/meta-analysis/step5.html)
 
 ### Day 7: Tue Jul 18
 - Tablular data
