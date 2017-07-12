@@ -29,8 +29,8 @@ output: html_document
 - [The message box](https://nceas.github.io/oss-lessons/message-box/message-box.html#/)
 
 ### Day 3: Wed Jul 12
-- Unix tools
-- Bash shell scripts
+- [Unix tools](https://nceas.github.io/oss-lessons/servers-networks-command-line/2-commandline-intro.html)
+- [Bash shell scripts](https://nceas.github.io/oss-lessons/servers-networks-command-line/3-bash-loops.html)
 - Data management and repos
 - Data publishing
 
