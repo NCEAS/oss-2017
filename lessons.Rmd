@@ -31,6 +31,7 @@ output: html_document
 ### Day 3: Wed Jul 12
 - [Unix tools](https://nceas.github.io/oss-lessons/servers-networks-command-line/2-commandline-intro.html)
 - [Bash shell scripts](https://nceas.github.io/oss-lessons/servers-networks-command-line/3-bash-loops.html)
+- [R Review & Assessment](https://nceas.github.io/oss-lessons/r-review-and-assessment/r-review-and-assessment.html)
 - Data management and repos
 - Data publishing
 
