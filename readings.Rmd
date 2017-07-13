@@ -29,6 +29,10 @@ Day 5:
 
 - [dplyr 0.7.0 release notes](https://github.com/tidyverse/dplyr/releases/tag/v0.7.0)
 
+- [R for Open Science: Open Sesame](https://ojs.library.queensu.ca/index.php/IEE/article/view/6559)
+
+- [A review of R for Data Science](https://www.jstatsoft.org/article/view/v077b01)
+
 Day 6:  
 
 - [How to read a meta-analysis](http://onlinelibrary.wiley.com/doi/10.1002/jrsm.1109/abstract)
