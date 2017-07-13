@@ -37,7 +37,8 @@ output: html_document
 
 ### Day 4: Thu Jul 13
 - Ecological metadata
-- Data liberation
+- [Data liberation - Web scraping](https://nceas.github.io/oss-lessons/data-liberation/intro-webscraping.html)
+- [Data liberation - Text mining](https://nceas.github.io/oss-lessons/data-liberation/intro-text-mining.html)
 - Regex
 
 ### Day 5: Fri Jul 14
