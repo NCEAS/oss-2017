@@ -32,12 +32,13 @@ output: html_document
 - [Unix tools](https://nceas.github.io/oss-lessons/servers-networks-command-line/2-commandline-intro.html)
 - [Bash shell scripts](https://nceas.github.io/oss-lessons/servers-networks-command-line/3-bash-loops.html)
 - [R Review & Assessment](https://nceas.github.io/oss-lessons/r-review-and-assessment/r-review-and-assessment.html)
-- [Data management and repos](https://nceas.github.io/oss-lessons/data-repositories/data-repositories.html#/)
-- Data publishing
+- [Data management and repositories](https://nceas.github.io/oss-lessons/data-repositories/data-repositories.html)
+- [Data publishing](https://nceas.github.io/oss-lessons/publishing-data/upload-data.html)
 
 ### Day 4: Thu Jul 13
 - Ecological metadata
-- Data liberation
+- [Data liberation - Web scraping](https://nceas.github.io/oss-lessons/data-liberation/intro-webscraping.html)
+- [Data liberation - Text mining](https://nceas.github.io/oss-lessons/data-liberation/intro-text-mining.html)
 - Regex
 
 ### Day 5: Fri Jul 14
