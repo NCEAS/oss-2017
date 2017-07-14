@@ -42,7 +42,7 @@ output: html_document
 
 ### Day 5: Fri Jul 14
 - Collaboration
-- Facilitation techniques
+- [Facilitation techniques](https://nceas.github.io/oss-lessons/meeting-facilitation/meeting-facilitation.html#/)
 - [Data wrangling: Tidyverse](https://nceas.github.io/oss-lessons/data-wrangling/tidyverse.html)
 - Data Munging
 
