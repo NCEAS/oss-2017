@@ -36,10 +36,11 @@ output: html_document
 - [Data publishing](https://nceas.github.io/oss-lessons/publishing-data/upload-data.html)
 
 ### Day 4: Thu Jul 13
-- Ecological metadata
+- [Ecological metadata](https://nceas.github.io/oss-lessons/ecological-metadata/ecological-metadata.html)
+- [Open data](https://nceas.github.io/oss-lessons/open-data-in-r/open-data-in-r.html)
 - [Data liberation - Web scraping](https://nceas.github.io/oss-lessons/data-liberation/intro-webscraping.html)
 - [Data liberation - Text mining](https://nceas.github.io/oss-lessons/data-liberation/intro-text-mining.html)
-- Regex
+- [Regular expressions](https://nceas.github.io/oss-lessons/regular-expressions/regular-expressions.html)
 
 ### Day 5: Fri Jul 14
 - Collaboration
