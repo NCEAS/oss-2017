@@ -57,9 +57,9 @@ output: html_document
 - [Meta analysis V](https://nceas.github.io/oss-lessons/meta-analysis/step5.html)
 
 ### Day 7: Tue Jul 18
-- Tablular data
-- SQL and PostgreSQL
-- SQL and database access in R
+- [Good enough data modeling](https://nceas.github.io/oss-lessons/sql-database/01-sql-database-intro.html)
+- [Start SQL with PostgresQL](https://nceas.github.io/oss-lessons/sql-database/02-sql-start.html)
+- [SQL and database access in R](https://nceas.github.io/oss-lessons/sql-database-access-in-r/sql-database-access-in-r.html)
 
 ### Day 8: Wed Jul 19
 - Worflows and modeling
