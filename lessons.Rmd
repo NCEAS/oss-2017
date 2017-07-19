@@ -62,8 +62,9 @@ output: html_document
 - [SQL and database access in R](https://nceas.github.io/oss-lessons/sql-database-access-in-r/sql-database-access-in-r.html)
 
 ### Day 8: Wed Jul 19
-- Worflows and modeling
-- Functions and modular code
+- [Data wrangling](https://nceas.github.io/oss-lessons/data-munging-qa-qc-cleaning/data-munging-qa-qc-cleaning.html)
+- [Creating R Functions](https://nceas.github.io/oss-lessons/creating-r-functions/creating-r-functions.html)
+- [Creating R packages](https://nceas.github.io/oss-lessons/creating-r-packages/creating-r-packages.html)
 - Testing R code
 
 ### Day 9: Thu Jul 20
