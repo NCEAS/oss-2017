@@ -69,7 +69,7 @@ output: html_document
 
 ### Day 9: Thu Jul 20
 
-- [Publishing Data](https://nceas.github.io/oss-lessons/publishing-data/upload-data.Rmd)
+- [Publishing Data](https://github.com/NCEAS/oss-lessons/tree/gh-pages/publishing-data)
 - [Reproducible Papers with RMarkdown](https://nceas.github.io/oss-lessons/reproducible-papers-with-rmd/reproducible-papers-with-rmd.html)
 
 
