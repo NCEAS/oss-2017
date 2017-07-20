@@ -1,9 +1,9 @@
 Agenda,Day 6. Open Meta-analysis,Day 7. Tabular Data,Day 8. Programming and Workflows,Day 9. Reproducible research,Day 10. Metagenomics
 8:15-8:30,"Feedback, questions, and discussion","Feedback, questions, and discussion",Mid-term assessment,"Feedback, questions, and discussion","Feedback, questions, and discussion"
 8:30-9:00,Metas and systematic reviews (Lortie),Overview of tabular data modeling (Jones),Lecture: Workflows and software modeling (Jones),LECTURE: Science in the open: Provenance and Reproducibility (Jones),Introduction to metagenomic data (Teal)
-9:00-9:30,Metas steps 1-3 (Lortie),Data Modeling Exercise with Group projects (Jones),"Wrangling followup: tidyr's separate, gather, and spread",Practical provenance (Jones),Metagenomics (Teal)
+9:00-9:30,Metas steps 1-3 (Lortie),Data Modeling Exercise with Group projects (Jones),"Wrangling followup: tidyr's separate, gather, and spread",Activity: Asserting provenance in R (Jones),Metagenomics (Teal)
 9:30-9:45,Break,Break,Break,Break,Break
-9:45-11:00,Metas step 4 (Lortie),Activity: SQL and PostgreSQL (Jones),Activity: Functions and modular code in R (Jones),Activity: Asserting provenance with datapack (Jones),Metagenomics (Teal)
+9:45-11:00,Metas step 4 (Lortie),Activity: SQL and PostgreSQL (Jones),Activity: Functions and modular code in R (Jones),Practical provenance (Lowndes),Metagenomics (Teal)
 11:00-12:00,Metas step 5 (Lortie),Activity: SQL and PostgreSQL (Jones),Activity: Creating R Packages (Jones),Activity: Recording provenance with recordr (Jones),Metagenomics (Teal)
 Noon-1:00,Lunch (starts 11:45),Lunch,Lunch,Lunch,Lunch
 1:00-1:30,LAB: complete group metas (Lortie),SQL and database access in R (Mecum),Testing R code and analysis (Mecum),Activity: Reproducible papers with Rmd (Mecum and Jones),Advanced Metagenomics (Teal)
