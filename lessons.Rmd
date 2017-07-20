@@ -68,8 +68,10 @@ output: html_document
 - Testing R code
 
 ### Day 9: Thu Jul 20
-- Practical provenance
-- Reproducible papers with RMD
+
+- [Publishing Data](https://nceas.github.io/oss-lessons/publishing-data/upload-data.Rmd)
+- [Reproducible Papers with RMarkdown](https://nceas.github.io/oss-lessons/reproducible-papers-with-rmd/reproducible-papers-with-rmd.html)
+
 
 ### Day 10: Fri Jul 21
 - Metagenomics
