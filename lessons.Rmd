@@ -74,7 +74,7 @@ output: html_document
 
 
 ### Day 10: Fri Jul 21
-- Metagenomics
+- [Metagenomics](https://nceas.github.io/oss-lessons/metagenomics/)
 
 ### Day 11: Mon Jul 24
 - GIS and geopspatial concepts
