@@ -78,8 +78,10 @@ output: html_document
 
 ### Day 11: Mon Jul 24
 - GIS and geopspatial concepts
-- QGIS
-- GIS in R
+    - [Module 1](https://nceas.github.io/oss-lessons/spatial-data-gis-law/1-mon-spatial-data-intro.html)
+    - [Module 2](https://nceas.github.io/oss-lessons/spatial-data-gis-law/2-mon-intro-to-open-gis-qgis.html)
+    - [Module 3](https://nceas.github.io/oss-lessons/spatial-data-gis-law/3-mon-intro-gis-in-r.html)
+- [Publishing maps to the web in R](https://nceas.github.io/oss-lessons/publishing-maps-to-the-web-in-r/publishing-maps-to-the-web-in-r.html)
 
 ### Day 12: Tue Jul 25
 - NetCDF and HDF5
