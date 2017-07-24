@@ -82,6 +82,7 @@ output: html_document
     - [QGIS - an open alternative to ArcGIS](https://nceas.github.io/oss-lessons/spatial-data-gis-law/2-mon-intro-to-open-gis-qgis.html)
     - [Plot & manage raster and vector data in R](https://nceas.github.io/oss-lessons/spatial-data-gis-law/3-mon-intro-gis-in-r.html)
 - [Publishing maps to the web in R](https://nceas.github.io/oss-lessons/publishing-maps-to-the-web-in-r/publishing-maps-to-the-web-in-r.html)
+- [Publication ready maps in R](https://github.com/NCEAS/oss-lessons/tree/gh-pages/publication-ready-maps-in-r) (R scripts examples)
 
 ### Day 12: Tue Jul 25
 - NetCDF and HDF5
