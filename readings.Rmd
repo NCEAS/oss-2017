@@ -40,3 +40,7 @@ Day 6:
 - [How to do a meta-analysis](http://onlinelibrary.wiley.com/wol1/doi/10.1348/000711010X502733/full)
 
 - [How to write your papers for others to use in meta-analyses](http://onlinelibrary.wiley.com/doi/10.1111/2041-210X.12758/full)
+
+Day 13:
+
+- [The Tao of open science for ecology](http://onlinelibrary.wiley.com/wol1/doi/10.1890/ES14-00402.1/abstract)
