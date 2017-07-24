@@ -87,7 +87,7 @@ output: html_document
 ### Day 13: Wed Jul 26
 - Dataviz
 - Datavz for alternative data
-- Open Science
+- [Open Science](https://speakerdeck.com/cjlortie/open-science-and-the-spells-that-you-ought-to-know)
 
 ### Day 14: Thu Jul 27
 - Parallel processing in R
