@@ -85,7 +85,8 @@ output: html_document
 - [Publication ready maps in R](https://github.com/NCEAS/oss-lessons/tree/gh-pages/publication-ready-maps-in-r) (R scripts examples)
 
 ### Day 12: Tue Jul 25
-- NetCDF and HDF5
+- [Getting started with spatial analysis in R](https://nceas.github.io/oss-lessons/spatial-data-gis-law/4-tues-spatial-analysis-in-r.html)
+- [NetCDF and HDF5](https://nceas.github.io/oss-lessons/spatial-data-gis-law/tues-intro-hierarchical-formats.html)
 
 ### Day 13: Wed Jul 26
 - Dataviz
