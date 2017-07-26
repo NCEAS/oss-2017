@@ -17,8 +17,7 @@ Day 2:
  
 Day 3:  
 
-
-Day 4:  
+- [Some Simple Guidelines for Effective Data Management](http://matt.magisa.org/pubs/borer-esa-2009.pdf)
 
 
 Day 5:  
