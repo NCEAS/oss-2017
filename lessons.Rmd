@@ -92,6 +92,7 @@ output: html_document
 - [Dataviz and Interactive Tools](https://nceas.github.io/oss-lessons/dataviz-and-interactive-tools/dataviz-and-interactive-tools.html)
     - [Submodule: ggplot2](https://nceas.github.io/oss-lessons/dataviz-and-interactive-tools/module-1-ggplot2.html)
     - [Submodule: Shiny](https://nceas.github.io/oss-lessons/dataviz-and-interactive-tools/module-2-shiny.html)
+- [Perfunctory Python](https://nceas.github.io/oss-lessons/why-python/python-the-why.html)    
 - [Open Science](https://speakerdeck.com/cjlortie/open-science-and-the-spells-that-you-ought-to-know)
 
 ### Day 14: Thu Jul 27
