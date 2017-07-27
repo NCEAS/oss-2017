@@ -3,8 +3,8 @@ Agenda,Day 11. Geospatial Data,Day 12. Geospatial analysis and Algorithmic Appro
 8:30-9:00,Intro to GIS - geospatial data concepts (Wasser),LAB: geospatial analysis (Wasser),Data Viz and interactive tools (Mecum),Parallel processing (in R)(Jones),Group 1 presentation and discussion
 9:00-9:30,Go from an Excel-like set of data to QGIS (Brun),LAB: geospatial analysis (Wasser),Data Viz and interactive tools (Mecum),Parallel processing (in R)(Jones),Group 1 presentation and discussion
 9:30-9:45,Break,Break,Break,Break,Break
-9:45-11:00,Intro to GIS in R (Wasser & Mecum),LAB: geospatial analysis (Wasser),Data Viz and interactive tools (Mecum),Synthesis Groups,Group 2 presentation and discussion
-11:00-12:00,Intro to GIS in R (Wasser & Mecum),LAB: geospatial analysis (Wasser), Perfunctory Python (Brun)[30 mins]<br>Open Science (Lortie) [30mins],Synthesis Groups,Group 3 presentation and discussion
+9:45-11:00,Intro to GIS in R (Wasser & Mecum),LAB: geospatial analysis (Wasser),Data Viz and interactive tools (Mecum),Open Science (Lortie) (10-10:30)<br>Synthesis Groups,Group 2 presentation and discussion
+11:00-12:00,Intro to GIS in R (Wasser & Mecum),LAB: geospatial analysis (Wasser), Perfunctory Python (Brun) (30 mins),Synthesis Groups,Group 3 presentation and discussion
 Noon-1:00,Lunch,Lunch,Lunch,Lunch,Lunch
 1:00-1:30,Publishing maps to the web in R (Mecum),LAB: NetCDF and HDF5 (Wasser & Mecum),Synthesis Groups,Synthesis Groups,Post-course assessment
 1:30-2:00,Publication ready maps in R (Mecum),LAB: NetCDF and HDF5 (Wasser & Mecum),Synthesis Groups,Synthesis Groups,Discussion: open science for synthesis and course feedback
