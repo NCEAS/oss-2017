@@ -23,8 +23,8 @@ output: html_document
 
 ### Day 2: Tue Jul 11
 - [Version control: git basics](https://nceas.github.io/oss-lessons/version-control/1-git-basics.html)
-- [Version control: GitHub](https://nceas.github.io/oss-lessons/version-control/2-GitHub.html)
-- [Version control: remote and branches](https://nceas.github.io/oss-lessons/version-control/3-git-remote.html)
+- [Version control: remote collaboration with git and GitHub](https://nceas.github.io/oss-lessons/version-control/2-git-remote-collaboration.html)
+- [Version control: branches and merge conflicts](https://nceas.github.io/oss-lessons/version-control/3-git-advanced.html)
 - [Version control: Rstudio and git](https://nceas.github.io/oss-lessons/version-control/4-getting-started-with-git-in-RStudio.html)
 - [The message box](https://nceas.github.io/oss-lessons/message-box/message-box.html#/)
 
