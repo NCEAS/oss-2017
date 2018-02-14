@@ -86,7 +86,7 @@ output: html_document
 
 ### Day 12: Tue Jul 25
 - [Getting started with spatial analysis in R](https://nceas.github.io/oss-lessons/spatial-data-gis-law/4-tues-spatial-analysis-in-r.html)
-- [NetCDF and HDF5](https://nceas.github.io/oss-lessons/spatial-data-gis-law/tues-intro-hierarchical-formats.html)
+- [NetCDF and HDF5](https://nceas.github.io/oss-lessons/spatial-data-gis-law/5-tues-intro-hierarchical-formats.html)
 
 ### Day 13: Wed Jul 26
 - [Dataviz and Interactive Tools](https://nceas.github.io/oss-lessons/dataviz-and-interactive-tools/dataviz-and-interactive-tools.html)
