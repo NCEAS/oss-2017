@@ -37,7 +37,7 @@ output: html_document
 
 ### Day 4: Thu Jul 13
 - [Ecological metadata](https://nceas.github.io/oss-lessons/ecological-metadata/ecological-metadata.html)
-- [Open data](https://nceas.github.io/oss-lessons/open-data-in-r/open-data-in-r.html)
+- [Open data](https://nceas.github.io/oss-lessons/open-data-in-r/open-data-in-R.html)
 - [Data liberation - Web scraping](https://nceas.github.io/oss-lessons/data-liberation/intro-webscraping.html)
 - [Data liberation - Text mining](https://nceas.github.io/oss-lessons/data-liberation/intro-text-mining.html)
 - [Regular expressions](https://nceas.github.io/oss-lessons/regular-expressions/regular-expressions.html)
